@@ -4319,5 +4319,329 @@
             "price": 1199,
             "discount": 50
         }
+    ],
+    "product": [
+        {
+            "title": "Apple iPhone 15",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/61bK6PMOC3L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/51Sn5X2gfaL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71RFKttvm9L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/711JE+dD1KL._SX679_.jpg"
+            ],
+            "seller": "dayasagar dalai",
+            "price": "72,999",
+            "location": "od-odisha",
+            "description": "iphone 15 new arrived with cheep price"
+        },
+        {
+            "title": "Apple iPhone 14",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/618Bb+QzCmL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/711JE+dD1KL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61U3Sfb9-BL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/81EuTJJ63xL._SX679_.jpg"
+            ],
+            "seller": "Sameer Ahamad",
+            "price": "58,999",
+            "location": "Delhi-India",
+            "description": "iphone 14 new arrived starlight varient"
+        },
+        {
+            "title": "polo Tshirt",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/61VHbPLMIcL._SY741_.jpg",
+                "https://m.media-amazon.com/images/I/61eCFnEoG+L._SY741_.jpg",
+                "https://m.media-amazon.com/images/I/51jT0WT1GtL._SY741_.jpg",
+                "https://m.media-amazon.com/images/I/61wa-CWiMVL._SY741_.jpg"
+            ],
+            "seller": "Balgopal Sahu",
+            "price": "999",
+            "location": "up-India",
+            "description": "The Souled Store Captain America: Super Soldier Mens Oversized Fit Graphic Printed Half Sleeve Cotton Multicolored Oversized Polos"
+        },
+        {
+            "title": "Jack and Jons T-shirt",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/61w1AgD-TXL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61oRtOYwdvL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61GKMaS56UL._SX569_.jpg"
+            ],
+            "seller": "Akankshya Nayak",
+            "price": "999",
+            "location": "Bihar-India",
+            "description": "Jack & Jones Men's Printed Polo Collar T-Shirt"
+        },
+        {
+            "title": "Van Heusen Casual Shirt",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/81bZMk6blqL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/81Qfa4-r4EL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/91XAg1Npv8L._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71akmttx0+L._SX569_.jpg"
+            ],
+            "seller": "Priyanka Patel",
+            "price": "829",
+            "location": "Odisha-India",
+            "description": "Van Heusen Men's Slim Fit Casual Shirt,100% cotton"
+        },
+        {
+            "title": "Regular Jeans",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/71GCUZSDLSL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71IW6Ou1-WL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/91o99C7FHfL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/91Ilka4hfcL._SX569_.jpg"
+            ],
+            "seller": "Aseema panda",
+            "price": "1359",
+            "location": "Banglore-India",
+            "description": "Pepe Jeans Men Regular Fit Jeans with cotton blend"
+        },
+        {
+            "title": "pape white jeans",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/61xDVTnwtmL._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/61Wl9RYN76L._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/713bcYt7aML._SX569_.jpg",
+                "https://m.media-amazon.com/images/I/71peDd4quGL._SX569_.jpg"
+            ],
+            "seller": "Archana padhi",
+            "price": "1530",
+            "location": "Delhi-India",
+            "description": "Pepe Jeans Men Regular Fit Jeans with cotton zipper"
+        },
+        {
+            "title": "Apple Adapter",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/61FbIIF5ptL._SY741_.jpg",
+                "https://m.media-amazon.com/images/I/61FbIIF5ptL._SY741_.jpg",
+                "https://m.media-amazon.com/images/I/61zIwncQXKL._SX679_.jpg"
+            ],
+            "seller": "Santanu Padhan",
+            "price": "1599",
+            "location": "Bihar-India",
+            "description": "Apple 20W USB-C Power Adapter (for iPhone, iPad & AirPods)"
+        },
+        {
+            "title": "USB Cable",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/61l-GnefD3L._SX522_.jpg",
+                "https://m.media-amazon.com/images/I/517FI7Q412L._SX522_.jpg",
+                "https://m.media-amazon.com/images/I/71glm9csgVS._SX522_.jpg",
+                "https://m.media-amazon.com/images/I/71MjoPcipZL._SX522_.jpg"
+            ],
+            "seller": "Sujeet Kumar",
+            "price": "664",
+            "location": "Mumbai-India",
+            "description": "USB C to Lightning Cable 1M [Apple MFi Certified] iPhone Fast Charger Cable USB-C Power Delivery Charging Cord for iPhone 14/13/12/12 PRO Max/12 Mini/11/11PRO/XS/Max/XR/X/8/8Plus/iPad)"
+        },
+        {
+            "title": "Women Kurta jaipurite",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/81AeWVl-TpL._SY741_.jpg",
+                "https://m.media-amazon.com/images/I/81QUzb6b7FL._SY741_.jpg",
+                "https://m.media-amazon.com/images/I/81BE5Fcep7L._SY741_.jpg",
+                "https://m.media-amazon.com/images/I/81B4-5G7bXL._SY741_.jpg"
+            ],
+            "seller": "Sachin Kumar",
+            "price": "684",
+            "location": "Mumbai-India",
+            "description": "Jaipurite Women Embroidered Anarkali Kurta in Pink"
+        },
+        {
+            "title": "NURISH Women's Kurta",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/61tybzPWmSL._SY741_.jpg",
+                "https://m.media-amazon.com/images/I/61Q8w9yTTML._SY741_.jpg",
+                "https://m.media-amazon.com/images/I/61jlmc2nY2L._SY741_.jpg",
+                "https://m.media-amazon.com/images/I/71DCb16KL1L._SX679_.jpg"
+            ],
+            "seller": "Rohan Sethi",
+            "price": "749",
+            "location": "Up-India",
+            "description": "NURISH Women's Printed Cotton Kurta Pant Set"
+        },
+        {
+            "title": "Fossil Stella Women's Watch",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/71kJVu9pvBL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71zNoAV9MxL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61YPZBDjFIL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71jvdiMLIiL._SX679_.jpg"
+            ],
+            "seller": "Roshan Raj",
+            "price": "5749",
+            "location": "Noida-India",
+            "description": "Fossil Stella Analog Women's Watch"
+        },
+        {
+            "title": "Armani Men's Watch",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/81F-j39RpdL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71Kb8FUmpZL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71tP0+8eU5L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/619LIWCu+2L._SX679_.jpg"
+            ],
+            "seller": "Adam Jampa",
+            "price": "15749",
+            "location": "Kalifornia-US",
+            "description": "Armani Exchange Analog Gold Dial Men's Watch-AX2137"
+        },
+        {
+            "title": "adidas Shoe",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/61H4myshnfL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61SU3BjDJ3L._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61wJC23KOOL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61e1oBggS7L._SY695_.jpg"
+            ],
+            "seller": "Pritipriya Mahanti",
+            "price": "4799",
+            "location": "Bhubaneswar",
+            "description": "adidas Mens New Star IndoorRunning Shoe"
+        },
+        {
+            "title": "Sparx",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/61wE1PW++7L._SX695_.jpg",
+                "https://m.media-amazon.com/images/I/41yEwFj4ExL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/71hsGw7vwXL._SX695_.jpg",
+                "https://m.media-amazon.com/images/I/51uszdBir1L._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/41ra+R9h2VL._SY695_.jpg"
+            ],
+            "seller": "Ankita Mishra",
+            "price": "699",
+            "location": "Agra-India",
+            "description": "Sparx Mens Sd0734g Sneaker"
+        },
+        {
+            "title": "Red Tape shoe",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/61dYfAiJ85L._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/51zzJp24zjL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/71X-qE6rHFL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61gzlYG6CxL._SY695_.jpg"
+            ],
+            "seller": "Kapil Samantarai",
+            "price": "1699",
+            "location": "jaipur-india",
+            "description": "Red Tape Casual Sneakers Shoes for Men | Soft Cushioned Insole, Slip-Resistance, Dynamic Feet Support, Arch Support & Shock Absorption"
+        },
+        {
+            "title": "Chappal Mens",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/51-Gi5wwoxL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/51GSdgnglxL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/515IYW0C5eL._SY695_.jpg",
+                "https://m.media-amazon.com/images/I/61TZGG3YbAL._SY695_.jpg"
+            ],
+            "seller": "Snigdha Dang",
+            "price": "360",
+            "location": "jodhpur-india",
+            "description": "Liberty A-HA Casual Thong for Mens"
+        },
+        {
+            "title": "Diper Pant",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/61xwHF8bsML._SX679_PIbundle-54,TopRight,0,0_AA679SH20_.jpg",
+                "https://m.media-amazon.com/images/I/71n1zffQenL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71ce8uMD2QL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/714X0hkpHzL._SX679_.jpg"
+            ],
+            "seller": "Ranjan Rana",
+            "price": "560",
+            "location": "odisha-india",
+            "description": "Supples Premium Diapers, X-Large (XL), 54 Count, 12-17 Kg, 12 hrs Absorption Baby Diaper Pants"
+        },
+        {
+            "title": "Gluco one",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/41vdxaNCUrL._SX425_.jpg",
+                "https://m.media-amazon.com/images/I/51ZSQInVmTL._SX425_.jpg",
+                "https://m.media-amazon.com/images/I/4170OrD-gkL._SX466_.jpg"
+            ],
+            "seller": "Dr Panda",
+            "price": "660",
+            "location": "Delhi-India",
+            "description": "Dr. Morepen BG-03 Blood Glucose Test Strips 50s Pack"
+        },
+        {
+            "title": "Tea Maker",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/51DGcy8eBCL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71YVYyT9JfL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71mFUcw9-aL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71YVYyT9JfL._SX679_.jpg"
+            ],
+            "seller": "Sachidananda Nayak",
+            "price": "599",
+            "location": "Delhi-India",
+            "description": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)"
+        },
+        {
+            "title": "Juicer",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/61+5UeY5JCL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61ZBefI7rJL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71hHJxE-idL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71ZZjw+X2FL._SX679_.jpg"
+            ],
+            "seller": "Teju Jaal",
+            "price": "499",
+            "location": "Asam-India",
+            "description": "GaxQuly Electric Juicer 6 Blade Rechargable Portable USB Bottle Blender Shaker Juicer A 2000 Juicer Mixer Grinder (380ml)"
+        },
+        {
+            "title": "ASUS Laptop",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/71c0GSxtEEL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/512MFfi514L._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/81y8EZ5uqVL._SX679_.jpg"
+            ],
+            "seller": "Monalisha Computer",
+            "price": "42998",
+            "location": "Anugul-India",
+            "description": "ASUS Vivobook 15, Intel Core i3-1220P 12th Gen, 15.6 (39.62 cm) FHD, Thin and Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Alexa Built-in/FP Sensor/Blue/1.7 kg), X1502ZA-EJ381WS"
+        },
+        {
+            "title": "Juicer",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/61+5UeY5JCL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61ZBefI7rJL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71hHJxE-idL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71ZZjw+X2FL._SX679_.jpg"
+            ],
+            "seller": "Teju Jaal",
+            "price": "499",
+            "location": "Asam-India",
+            "description": "GaxQuly Electric Juicer 6 Blade Rechargable Portable USB Bottle Blender Shaker Juicer A 2000 Juicer Mixer Grinder (380ml)"
+        },
+        {
+            "title": "Lenevo Laptop",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/71xHNSCyRsL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/716Qz3-bzVL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61ubkDRg+QL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61H96HbSqTL._SX679_.jpg"
+            ],
+            "seller": "Sagar Sarma",
+            "price": "40990",
+            "location": "Sonepur-India",
+            "description": "Lenovo IdeaPad 1 AMD Ryzen 5 5500U 15.6  HD Thin and Light Laptop (16GB/512GB SSD/Windows 11 Home/MS Office 2021/Cloud Grey/1.61Kg), 82R400ERIN"
+        },
+        {
+            "title": "BoAt Headphone",
+            "imageArr": [
+                "https://m.media-amazon.com/images/I/61WjZrbnqML._SX522_.jpg",
+                "https://m.media-amazon.com/images/I/71D6zM+jA3L._SX522_.jpg",
+                "https://m.media-amazon.com/images/I/61bvKOgl54L._SX522_.jpg",
+                "https://m.media-amazon.com/images/I/61n6ky2BElL._SX522_.jpg"
+            ],
+            "seller": "Aman Sukla",
+            "price": "1499",
+            "location": "Kolkata-India",
+            "description": "boAt Rockerz 450R On-Ear Headphones with 15 Hours Battery, 40mm Drivers, Padded Ear Cushions, Easy Access Controls and Voice Assistant(Aqua Blue)"
+        }
     ]
 }
